@@ -1,0 +1,5 @@
+Nombre de la base de datos: peluqueria_canina
+
+Nombre de usuario: pelu
+
+Contraseña: 12345
